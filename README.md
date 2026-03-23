@@ -1,0 +1,1 @@
+# Tensor-de-esfuerzos
